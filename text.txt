@@ -1,0 +1,5 @@
+working directory(project folder) - stagging area -- local repository -- remote repository 
+tast-project                    -- git add         --git commit     -- git push 
+
+
+
